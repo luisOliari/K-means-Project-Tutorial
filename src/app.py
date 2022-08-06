@@ -1,6 +1,3 @@
-from utils import db_connect
-engine = db_connect()
-
 # your code here
 # Step 1 
 # cargar las librerias: 
